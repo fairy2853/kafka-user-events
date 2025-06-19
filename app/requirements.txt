@@ -1,0 +1,5 @@
+faker
+confluent_kafka
+pyspark==3.5.1
+pandas 
+pyarrow
